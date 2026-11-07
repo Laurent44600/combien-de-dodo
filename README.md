@@ -10,3 +10,10 @@
 
 2.5.0 correctif notifications journalières
 ajout d'un bouton pour rechercher les mises à jour et affichage du popup mise à jour dispo qd il y en a.
+2.5.3 ajout d'un bouton pour rechercher les mises à jour et affichage du popup mise à jour dispo qd il y en a.
+
+2.5.4 suppression du menu notification qui ne fonctionne pas mise à jour de la fonction mise à jour de l'app
+
+2.6.1 (02 Novembre 2026) : Optimisation du système de mise à jour et intégration de l'espace de commentaires et de retours utilisateurs avec QR code de telechargement
+
+2.7.0 (07 Novembre 2026) : ajout de la page où est papa/maman avec la retour dynamique de la position de l'enfant et du parent, integrant la lecture automatique du presse papier pour mise à jour de la position.",
