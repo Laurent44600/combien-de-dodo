@@ -17,3 +17,5 @@ ajout d'un bouton pour rechercher les mises à jour et affichage du popup mise �
 2.6.1 (02 Novembre 2026) : Optimisation du système de mise à jour et intégration de l'espace de commentaires et de retours utilisateurs avec QR code de telechargement
 
 2.7.0 (07 Novembre 2026) : ajout de la page où est papa/maman avec la retour dynamique de la position de l'enfant et du parent, integrant la lecture automatique du presse papier pour mise à jour de la position.",
+
+2.8.0 (11 Novembre 2026) : ajout de la page parent parti et Synchronisation Cloud Bidirectionnelle & Temps Réel (avec Firebase) et création d'un espace Cloud Famille unique : Connexion automatique et sécurisée des appareils de Papa et Maman via un identifiant et un mot de passe communs poue permettre la mise à jour instantanée de la position en envoi et écoute automatique. Personnalisation & Galerie Photo pour l'Avatar Enfant. Optimisation de l'Ergonomie de la Carte
